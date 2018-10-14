@@ -1,4 +1,4 @@
-package com.java.sringaop.aspects;
+package com.java.springaop.aspects;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.After;

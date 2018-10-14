@@ -1,4 +1,4 @@
-package com.java.sringaop.aspects;
+package com.java.springaop.aspects;
 
 public class Account {
 

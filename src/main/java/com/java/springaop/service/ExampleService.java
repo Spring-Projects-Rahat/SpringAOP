@@ -2,7 +2,7 @@ package com.java.springaop.service;
 
 import org.springframework.stereotype.Service;
 
-import com.java.sringaop.aspects.Account;
+import com.java.springaop.aspects.Account;
 
 //This class contains all the services which used by some other application
 

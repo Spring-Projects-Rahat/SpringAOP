@@ -3,9 +3,9 @@ package comjava.springaop.client;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+import com.java.springaop.aspects.Account;
+import com.java.springaop.config.AppConfig;
 import com.java.springaop.service.ExampleService;
-import com.java.sringaop.aspects.Account;
-import com.java.sringaop.config.AppConfig;
 
 public class TestClient {
 	
