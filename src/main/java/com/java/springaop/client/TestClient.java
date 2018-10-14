@@ -1,4 +1,4 @@
-package comjava.springaop.client;
+package com.java.springaop.client;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
